@@ -1,4 +1,4 @@
-## Luhn Algorithm Credit Card Checker
+## Luhn Algorithm: Credit Card Checker
 Small JavaScript algorithm validating credit card numbers, using the Luhn algorithm. The [Luhn algorithm](https://en.wikipedia.org/wiki/Luhn_algorithm) is a series of mathematical calculations used to validate certain identification numbers. Codecademy exercise.
 
 ### Luhn algorithm
